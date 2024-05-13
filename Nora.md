@@ -4003,6 +4003,44 @@ The rankings are a guideline, the AV doesn't know what might happen in a Silver 
 
 Read [5 Room Dungeons](https://www.roleplayingtips.com/5-room-dungeons/) to understand the full weight of these examples. This design philosophy makes consise sessions that have a little bit of everything so every game is fun.
 
+>   Many players dislike long dungeon crawls, and ADD GMs like to switch environments up often.
+
+>   They are called 5 Room Dungeons, but this is just a guideline. Feel free to make 3-area locations or 10-cave complexes. The idea works for any small, self-contained area.
+
+
+
+>   ## Entrance And Guardian
+
+A reason why your dungeon hasn’t been plundered before.
+
+
+
+>   ## Puzzle Or Roleplaying Challenge
+
+Puzzle or Role-Playing Opportunity. This keeps problem solvers in your group happy and breaks the action up for good pacing.
+
+
+
+>   ## Trick or Setback
+
+Build Tension with a twist.
+
+>   Alternatively, give your group a double-dose of gameplay that they enjoy the most, such as more combat or roleplaying.
+
+
+
+>   ## Climax, Big Battle or Conflict
+
+The final combat or conflict encounter of the dungeon.
+
+
+
+>   ## Reward, Revelation, Plot Twist
+
+The dungeon is cleared, how does it tie into the larger story?
+
+
+
 ## **The Siren’s Grotto `CR 2`**
 
 **Guardian or Reason No One Has Braved the Dungeon:** *The Lurking Leviathan* - A massive sea creature (CR 2) that circles the waters around the grotto, attacking anyone who dares to enter its domain.
