@@ -486,7 +486,7 @@ Engage in illicit activities such as burglary, smuggling, or espionage:
 
 ## Experince Points (XP or EXP)
 
-![2 EXP 256](./assets/Foci/2%20EXP%20256.jpg)
+![2 EXP 256](./assets/2%20EXP%20256.jpg)
 
 Experience, EXP or XP is a currency that can be collected, traded, given, or spent on various boons: 
 
