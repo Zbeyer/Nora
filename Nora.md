@@ -4001,6 +4001,8 @@ The rankings are a guideline, the AV doesn't know what might happen in a Silver 
 
 # Dungeon Examples
 
+Read [5 Room Dungeons](https://www.roleplayingtips.com/5-room-dungeons/) to understand the full weight of these examples. This design philosophy makes consise sessions that have a little bit of everything so every game is fun.
+
 ## **The Siren’s Grotto `CR 2`**
 
 **Guardian or Reason No One Has Braved the Dungeon:** *The Lurking Leviathan* - A massive sea creature (CR 2) that circles the waters around the grotto, attacking anyone who dares to enter its domain.
