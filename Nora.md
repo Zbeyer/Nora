@@ -1,6 +1,8 @@
 # Nora
 
-A dnd 5e module for the Eberron Setting
+Nora is intended to be used as a 5e Ebberon module for dnd. 
+
+This content is independently created and is not affiliated with, nor has it been authorized, sponsored, or otherwise approved by Wizards of the Coast.
 
 >   **Arcane** is a subgenre of fantasy that combines elements of science fiction, magic, and industrialization. It is characterized by its blend of advanced technology and magical abilities, often set in a world where magic is a normal part of everyday life. The term “Arcane” is derived from the words “arcane” and “punk,” and it is often used to describe a world where magic and technology coexist and influence each other.
 
