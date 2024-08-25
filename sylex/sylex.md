@@ -116,3 +116,9 @@ The tent houses several Demi-planes as rooms. On the outside it looks like a reg
 
 ![The War Tent](./assets/The%20War%20Tent.jpg)
 
+
+
+## Locations
+
+
+
