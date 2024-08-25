@@ -122,17 +122,19 @@ The tent houses several Demi-planes as rooms. On the outside it looks like a reg
 
 Make cities, other than capitals, without current national sovereignty, they trade hands. Use **Xanathar's Guide to Everything** Chapter 2: Random Encounter Tables when planning out the ecology of a region, town, or city. 
 
-Planning ecology since each biome has 4 levels of encounters
+Plan the ecology around some key encounters. Since each biome listed has four levels of encounters categorize the area using them: 
 
-### Super 1-2 Encounters  (CR 17-20)
+#### Super 1 Encounters  (CR 17-20)
 
-### High 5 Encounters (CR 11-16)
+#### High 2 Encounters (CR 11-16)
 
-### Medium 8 Encounters (CR 5-10)
+#### Medium 3 Encounters (CR 5-10)
 
-### Low 13 Encounters (CR 1-4)
+#### Low 5 Encounters (CR 1-4)
 
 
+
+Concider what other quests, jobs, or industries might be common in the area.
 
 ![IMG_2023](./assets/IMG_2023.jpg)
 
