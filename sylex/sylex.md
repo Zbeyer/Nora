@@ -120,5 +120,11 @@ The tent houses several Demi-planes as rooms. On the outside it looks like a reg
 
 ## Locations
 
+![IMG_2023](./assets/IMG_2023.jpg)
 
+![IMG_2022](./assets/IMG_2022.jpg)
+
+![IMG_2019](./assets/IMG_2019.jpg)
+
+![IMG_2017](./assets/IMG_2017.jpg)
 
