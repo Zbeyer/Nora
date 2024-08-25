@@ -33,6 +33,12 @@ The  **Sanctum** is an avian worshiping holy empire with a lot of bird humanoids
 
 ![di18g7d-4880291d-a93b-4ec7-8ba2-0587284090e5](./assets/di18g7d-4880291d-a93b-4ec7-8ba2-0587284090e5.png)
 
+### Supreme Seraph of the Aetherial Flock
+
+
+
+![Supreme Seraph of the Aetherial Flock](./assets/Supreme%20Seraph%20of%20the%20Aetherial%20Flock.png)
+
 
 
 ## Auroravale - Capital of the Sirenscale Dominion
@@ -56,7 +62,11 @@ The **Dominion** is costal and amphibious (a lot of ships). Big into hydras, liz
 
 ![di193d3-3477fadc-ecf9-4bcf-96cc-ec82e72ca2c1](./assets/di193d3-3477fadc-ecf9-4bcf-96cc-ec82e72ca2c1.png)
 
-![di1939m-271ed599-20b7-47f5-843f-c7d86f6263a2](./assets/di1939m-271ed599-20b7-47f5-843f-c7d86f6263a2.png)
+### President Thalassarix Stormfin
+
+![di1939m-271ed599-20b7-47f5-843f-c7d86f6263a2](./assets/President%20Thalassarix%20Stormfin.png)
+
+
 
 
 
@@ -81,7 +91,9 @@ The **Glade** is a forest nation that is big into golems, warfoged, and construc
 
 ![di18oey-ca4dfad4-2c76-4dde-9695-4afc5629be2c](./assets/di18oey-ca4dfad4-2c76-4dde-9695-4afc5629be2c.png)
 
+### Lord Gearhart the Mechanist
 
+![Lord Gearhart the Mechanist](./assets/Lord%20Gearhart%20the%20Mechanist.png)
 
 ## Glimmerforge - Capital of Saharan
 
@@ -103,3 +115,7 @@ The **Glade** is a forest nation that is big into golems, warfoged, and construc
 ![di19dbf-127986a1-45ca-4d52-95c8-4945bf56758a](./assets/di19dbf-127986a1-45ca-4d52-95c8-4945bf56758a.png)
 
 ![di19dd3-8a64f2bb-37bf-470c-8690-9ab2e8b1f9d9](./assets/di19dd3-8a64f2bb-37bf-470c-8690-9ab2e8b1f9d9.png)
+
+### The MythWalker
+
+![The MythWalker](./assets/The%20MythWalker.png)
