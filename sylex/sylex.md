@@ -32,6 +32,12 @@ The  **Sanctum** is an avian worshiping holy empire with a lot of bird humanoids
 
 ![Supreme Seraph of the Aetherial Flock](./assets/Supreme%20Seraph%20of%20the%20Aetherial%20Flock.png)
 
+### The Grand Phoenix
+
+The Grand Phoenix is a celestial entity that the Sanctum views as the ultimate expression of rebirth. It is the main object of worship 
+
+![The grand phoenix](./assets/The%20grand%20phoenix.png)
+
 ## Auroravale - Capital of the Sirenscale Dominion
 
 ![Auroravale](./assets/Auroravale.jpg)
