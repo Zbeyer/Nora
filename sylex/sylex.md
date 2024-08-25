@@ -34,7 +34,9 @@ The  **Sanctum** is an avian worshiping holy empire with a lot of bird humanoids
 
 ### The Grand Phoenix
 
-The Grand Phoenix is a celestial entity that the Sanctum views as the ultimate expression of rebirth. It is their main object of worship 
+The Grand Phoenix is a celestial entity that the Sanctum views as the ultimate expression of rebirth. It is their main object of worship.
+
+It is a CR 20 beast.
 
 ![The grand phoenix](./assets/The%20grand%20phoenix.jpg)
 
@@ -58,7 +60,9 @@ The **Dominion** is costal and amphibious (a lot of ships). Big into hydras, liz
 
 ### The Infinity
 
-A powerful air ship thought to be the pride of the Dominion.	
+A powerful air ship thought to be the pride of the Dominion.
+
+It is a CR 20 vehicle.
 
 ![The Infinity](./assets/The%20Infinity.jpg)
 
@@ -79,6 +83,12 @@ The **Glade** is a forest nation that is big into golems, warfoged, and construc
 ### Lord Gearhart the Mechanist
 
 ![Lord Gearhart the Mechanist](./assets/Lord%20Gearhart%20the%20Mechanist.png)
+
+### War Machine
+
+A custamizable construct used by the glade to intimidate rival factions.
+
+It is a CR 20 Construct.
 
 ![War Machine](./assets/War%20Machine.jpg)
 
@@ -101,6 +111,8 @@ The **Glade** is a forest nation that is big into golems, warfoged, and construc
 ![The MythWalker](./assets/The%20MythWalker.png)
 
 ### The War Tent
+
+The tent houses several Demi-planes as rooms. On the outside it looks like a regal 50 foot mobile 4 season tent, but on the inside there is enough space for a legion to comfortably dwell.
 
 ![The War Tent](./assets/The%20War%20Tent.jpg)
 
