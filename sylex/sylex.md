@@ -62,7 +62,7 @@ The **Dominion** is costal and amphibious (a lot of ships). Big into hydras, liz
 
 A powerful air ship thought to be the pride of the Dominion.
 
-It is a CR 20 vehicle.
+It is a very large vehicle.
 
 ![The Infinity](./assets/The%20Infinity.jpg)
 
