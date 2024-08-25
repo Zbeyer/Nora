@@ -58,7 +58,7 @@ The **Dominion** is costal and amphibious (a lot of ships). Big into hydras, liz
 
 ### The Infinity
 
-A powerful air ship thought to be the pride of the dominion.	
+A powerful air ship thought to be the pride of the Dominion.	
 
 ![The Infinity](./assets/The%20Infinity.jpg)
 
