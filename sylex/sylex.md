@@ -56,6 +56,12 @@ The **Dominion** is costal and amphibious (a lot of ships). Big into hydras, liz
 
 ![di1939m-271ed599-20b7-47f5-843f-c7d86f6263a2](./assets/President%20Thalassarix%20Stormfin.png)
 
+### The Infinity
+
+A powerful air ship thought to be the pride of the dominion.	
+
+![The Infinity](./assets/The%20Infinity.jpg)
+
 ## Celestiora - Capital of the Silvershade Glade
 
 ![Celestiora](./assets/Celestiora.jpg)
