@@ -89,7 +89,7 @@ The **Glade** is a forest nation that is big into golems, warfoged, and construc
 
 **Saharath** is a nomadic desert nation of tribes. A lot of Monks, Fighters, and Barbarians.
 
--   Focus on Marshal advancement and Military dominance. Very focused on the lifting the Tribe.
+-   Focus on Marshal advancement and Military dominance. Very focused on lifting one's Tribe.
 -   Chief export: Magic gems and Mined goods.
 -   Colors: Orange & purple.
 -   Internal conflict: Head Tribe.
