@@ -36,7 +36,7 @@ The  **Sanctum** is an avian worshiping holy empire with a lot of bird humanoids
 
 The Grand Phoenix is a celestial entity that the Sanctum views as the ultimate expression of rebirth. It is their main object of worship.
 
-It is a CR 20 Celestial Beast..
+It is a CR 20 Celestial Beast.
 
 ![The grand phoenix](./assets/The%20grand%20phoenix.jpg)
 
