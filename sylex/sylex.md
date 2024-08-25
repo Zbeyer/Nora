@@ -1,6 +1,10 @@
 
 
-# Sylex![Sylex](./assets/Sylex.jpg)
+# Sylex
+
+Sylex is a land at war. It hosts all the major biomes but has an uncertain future. Each nation is sees a different future for the land and internal conflicts makes each nation unstable.
+
+![Sylex](./assets/Sylex.jpg)
 
 
 
