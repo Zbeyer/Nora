@@ -36,7 +36,7 @@ The  **Sanctum** is an avian worshiping holy empire with a lot of bird humanoids
 
 The Grand Phoenix is a celestial entity that the Sanctum views as the ultimate expression of rebirth. It is their main object of worship 
 
-![The grand phoenix](./assets/The%20grand%20phoenix.png)
+![The grand phoenix](./assets/The%20grand%20phoenix.jpg)
 
 ## Auroravale - Capital of the Sirenscale Dominion
 
@@ -80,6 +80,8 @@ The **Glade** is a forest nation that is big into golems, warfoged, and construc
 
 ![Lord Gearhart the Mechanist](./assets/Lord%20Gearhart%20the%20Mechanist.png)
 
+![War Machine](./assets/War%20Machine.jpg)
+
 ## Glimmerforge - Capital of Saharan
 
 ![Glimmerforge](./assets/Glimmerforge.jpg)
@@ -100,5 +102,5 @@ The **Glade** is a forest nation that is big into golems, warfoged, and construc
 
 ### The War Tent
 
-![The War Tent](./assets/The%20War%20Tent.png)
+![The War Tent](./assets/The%20War%20Tent.jpg)
 
