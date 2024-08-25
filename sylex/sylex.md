@@ -34,7 +34,7 @@ The  **Sanctum** is an avian worshiping holy empire with a lot of bird humanoids
 
 ### The Grand Phoenix
 
-The Grand Phoenix is a celestial entity that the Sanctum views as the ultimate expression of rebirth. It is the main object of worship 
+The Grand Phoenix is a celestial entity that the Sanctum views as the ultimate expression of rebirth. It is their main object of worship 
 
 ![The grand phoenix](./assets/The%20grand%20phoenix.png)
 
@@ -91,4 +91,8 @@ The **Glade** is a forest nation that is big into golems, warfoged, and construc
 ### The MythWalker
 
 ![The MythWalker](./assets/The%20MythWalker.png)
+
+### The War Tent
+
+![The War Tent](./assets/The%20War%20Tent.png)
 
